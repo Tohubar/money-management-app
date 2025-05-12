@@ -1,10 +1,8 @@
 const router = require('express').Router()
-const {login} = require("../controllers/userController")
+const {login, register} = require("../controllers/userController")
 //registration route
 //localhost:400/api/users/register
-router.post("/register", (req, res) => {
-
-})
+router.post("/register", register)
 
 //Login route
 //localhost:400/api/users/login
