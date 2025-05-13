@@ -1,0 +1,17 @@
+[33mcommit 011e99892aa154e117215881df2a0e4d823575e7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Tohubar <hossaintohubar@gmail.com>
+Date:   Tue May 13 02:47:56 2025 +0600
+
+    add registration with validation
+
+[33mcommit c98a78d398d2c68ca73fd8da0cd126f96977049a[m
+Author: Tohubar <hossaintohubar@gmail.com>
+Date:   Tue May 13 01:25:56 2025 +0600
+
+    Add .gitignore and romve ignored files
+
+[33mcommit f2c51f048c1a9d3d382d32273e2bcbe90dec4864[m
+Author: Tohubar <hossaintohubar@gmail.com>
+Date:   Tue May 13 01:21:58 2025 +0600
+
+    Initial Commit
